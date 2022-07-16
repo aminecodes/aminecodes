@@ -6,11 +6,8 @@ Product Manager
 
 Striving to make optimized, structured, and consistent interfaces. Currently exploring AI and ML opportunities.
 
-* 🌍  I'm based in Oran
-* 🖥️  See my portfolio at [Personal Website](http://amine.codes)
 * ✉️  You can contact me at [aminecodes@outlook.com](mailto:aminecodes@outlook.com)
-* 🚀  I'm currently working on [Algeria Startups](http://algeriastartups.com)
-* 🧠  I'm learning Vue.js
+* 🧠  Learning Vue.js
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  Discover projects I'm working on, books I'm reading and ideas worth making
 
